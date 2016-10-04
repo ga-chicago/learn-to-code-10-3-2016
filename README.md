@@ -42,6 +42,19 @@ Parent Tag > Child Tag
 - [Intro to Modern Computer Science Slide Deck](https://prezi.com/lxsmeaue4mda/intro-to-modern-computer-science/)
 - [Samuel L. Ipsum](http://slipsum.com/)
 - [Ariane 5 Explosion](https://www.youtube.com/watch?v=kYUrqdUyEpI)
+- [Learn HTML and CSS by Shay Howe](learn.shayhowe.com)
+- [Dash from General Assembly](dash.generalassemb.ly)
+- [Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
+- [Portable Apps Sublime Text Download](http://portableapps.com/node/33096)
+- [Smashing Magazine](https://www.smashingmagazine.com)
+- [CSS-Tricks](https://css-tricks.com/)
+
+
+#### Tips
+
+* Try using `tab` with everything in Sublime Text/Atom/Webstorm. You never know what snippets/autocomplete you may find!
+* Google and Stack Overflow are excellent resources
+* Admit to what you don't know; people
 
 #### Source Code
 
