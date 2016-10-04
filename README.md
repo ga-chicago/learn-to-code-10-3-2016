@@ -33,5 +33,5 @@ Parent Tag > Child Tag
 		<audio> - for audio files to be played
 		<video> - for videos
 		<hgroup> - group headers
-		...a lot more, but no time
+		...a lot more
 ```
