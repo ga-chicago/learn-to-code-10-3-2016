@@ -35,3 +35,10 @@ Parent Tag > Child Tag
 		<hgroup> - group headers
 		...a lot more
 ```
+
+
+#### Links
+
+- [Intro to Modern Computer Science Slide Deck](https://prezi.com/lxsmeaue4mda/intro-to-modern-computer-science/)
+- [Samuel L. Ipsum](http://slipsum.com/)
+- [Ariane 5 Explosion](https://www.youtube.com/watch?v=kYUrqdUyEpI)
