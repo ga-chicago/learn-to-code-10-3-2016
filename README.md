@@ -42,3 +42,81 @@ Parent Tag > Child Tag
 - [Intro to Modern Computer Science Slide Deck](https://prezi.com/lxsmeaue4mda/intro-to-modern-computer-science/)
 - [Samuel L. Ipsum](http://slipsum.com/)
 - [Ariane 5 Explosion](https://www.youtube.com/watch?v=kYUrqdUyEpI)
+
+#### Source Code
+
+##### HTML
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>James' Portfolio</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<h1>James</h1>
+	<p>jamest@ga.co<br>
+	http://codeforcoffee.org<br>
+	@code4coffee
+	</p>
+	<h1>Objective/Goal/World Domination</h1>
+	<p>
+	My goal is to be awesome and make life fun.</p>
+
+	<h1>Experience</h1>
+
+	<h3>Web/Android Lead Instructor at General Assembly</h3>
+	<p>
+		<strong>Chicago, IL</strong><br>
+		<em>January 2015 through present</em><br>
+		My job duties are to never leave the building, water the plants, and teach. 
+	</p>
+
+	<h3>Title</h3>
+	<p>
+		<strong>Chicago, IL</strong><br>
+		<em>June 2008 through present</em><br>
+		Pay the bills. Pay the bills. Pay the bills. Pay the bills. Pay the bills. Pay the bills. Pay the bills. Pay the bills. Pay the bills. Pay the bills. Pay the bills. Pay the bills. Pay the bills. 
+	</p>
+
+	<h1>Skills</h1>
+	<p>Technical Abilities
+		<ul>
+			<li>HTML</li>
+			<li>CSS</li>
+			<li>Being awesome</li>
+		</ul>
+	</p>
+
+</body>
+</html>
+```
+
+##### CSS 
+
+```css
+/* i can leave comments like this */
+/* my first selector */
+
+/* look good on every device */
+body {
+	font-size: 14px;
+	margin-left: 2rem;
+	margin-right: 2rem;
+	color: purple; /* names, hex codes, rgb, etc */
+	/*background: tan;*/
+}
+h1 {
+	/*font-size: 12px;*/
+	font-size: 2rem; /* 300% of body's font-size */
+}
+h3 {
+	font-size: 1.5rem; /* 150% of body's font-size */
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p {
+	font-size: 1rem; /* 100% of body's font-size */
+}
+```
